@@ -3,7 +3,7 @@ My Collection Of Awesome Fonts
 
 ## Gilroy
 
-![Gilroy](Gilroy/cover.jpg)
+![Gilroy](Gilroy/Gilroy-preview.png)
 
 ## Archia
 

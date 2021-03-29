@@ -1,0 +1,12 @@
+/* Webfont: Abside-ObliqueRound1 */@font-face {
+    font-family: 'AbsideRound1';
+    src: url('Abside-ObliqueRound1.eot'); /* IE9 Compat Modes */
+    src: url('Abside-ObliqueRound1.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Abside-ObliqueRound1.woff') format('woff'), /* Modern Browsers */
+         url('Abside-ObliqueRound1.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Abside-ObliqueRound1.svg#Abside-ObliqueRound1') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

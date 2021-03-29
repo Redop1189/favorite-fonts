@@ -1,0 +1,12 @@
+/* Webfont: Abside-Round2 */@font-face {
+    font-family: 'AbsideRound2';
+    src: url('Abside-Round2.eot'); /* IE9 Compat Modes */
+    src: url('Abside-Round2.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Abside-Round2.woff') format('woff'), /* Modern Browsers */
+         url('Abside-Round2.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Abside-Round2.svg#Abside-Round2') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

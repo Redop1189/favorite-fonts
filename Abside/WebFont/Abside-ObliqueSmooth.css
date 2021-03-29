@@ -1,0 +1,12 @@
+/* Webfont: Abside-ObliqueSmooth */@font-face {
+    font-family: 'AbsideSmooth';
+    src: url('Abside-ObliqueSmooth.eot'); /* IE9 Compat Modes */
+    src: url('Abside-ObliqueSmooth.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Abside-ObliqueSmooth.woff') format('woff'), /* Modern Browsers */
+         url('Abside-ObliqueSmooth.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Abside-ObliqueSmooth.svg#Abside-ObliqueSmooth') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

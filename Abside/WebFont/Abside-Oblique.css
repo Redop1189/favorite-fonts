@@ -1,0 +1,12 @@
+/* Webfont: Abside-Oblique */@font-face {
+    font-family: 'Abside';
+    src: url('Abside-Oblique.eot'); /* IE9 Compat Modes */
+    src: url('Abside-Oblique.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Abside-Oblique.woff') format('woff'), /* Modern Browsers */
+         url('Abside-Oblique.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Abside-Oblique.svg#Abside-Oblique') format('svg'); /* Legacy iOS */
+    font-style: italic;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

@@ -19,7 +19,6 @@
 
 ## Averta
 
-![Averta](Averta/averta.webp)
 ![Averta](Averta/averta.png)
 
 ## Branding Pro
